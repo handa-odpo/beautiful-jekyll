@@ -120,9 +120,18 @@ tags: [メモ]
 
 ```
 
-[Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-Here's a code chunk:
+# コード埋め込み
+
+```
+~~~
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+~~~
+```
 
 ~~~
 var foo = function(x) {
@@ -131,7 +140,14 @@ var foo = function(x) {
 foo(3)
 ~~~
 
-And here is the same code with syntax highlighting:
+```
+```javascript
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
+```
 
 ```javascript
 var foo = function(x) {
