@@ -138,12 +138,30 @@ tags: [メモ]
 
 # コード埋め込み
 
+~~~
 ```javascript
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
 ```
+~~~
+
+```javascript
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
+
+~~~
+{% highlight javascript linenos %}
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+{% endhighlight %}
+~~~
 
 {% highlight javascript linenos %}
 var foo = function(x) {
