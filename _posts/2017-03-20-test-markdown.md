@@ -7,6 +7,8 @@ image: /img/hello_world.jpeg
 tags: [メモ]
 ---
 
+[:contents]
+
 # 投稿の種類
 
 投稿できる記事の種類は4種類
