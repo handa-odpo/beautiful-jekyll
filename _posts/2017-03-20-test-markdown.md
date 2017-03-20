@@ -37,20 +37,22 @@ tags: []
 # 文字の装飾
 
 ~~~
-*はんだオープンデータ活用推進研究会*
-**はんだオープンデータ活用推進研究会**
-~~はんだオープンデータ活用推進研究会~~
-__はんだオープンデータ活用推進研究会__
+1 *はんだオープンデータ活用推進研究会*
+2 _はんだオープンデータ活用推進研究会_
+3 **はんだオープンデータ活用推進研究会**
+4 __はんだオープンデータ活用推進研究会__
+5 ~~はんだオープンデータ活用推進研究会~~
 ~~~
 
-*はんだオープンデータ活用推進研究会*
+1 *はんだオープンデータ活用推進研究会*
 
-**はんだオープンデータ活用推進研究会**
+2 _はんだオープンデータ活用推進研究会_
 
-~~はんだオープンデータ活用推進研究会~~
+3 **はんだオープンデータ活用推進研究会**
 
-__はんだオープンデータ活用推進研究会__
+4 __はんだオープンデータ活用推進研究会__
 
+5 ~~はんだオープンデータ活用推進研究会~~
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
