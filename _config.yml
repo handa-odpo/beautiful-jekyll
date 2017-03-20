@@ -41,7 +41,7 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Some Person
   email: "handa-odpo@gmail.com"
-  facebook: "/groups/handa.odp/"  # eg. daattali
+  facebook: "https://www.facebook.com/groups/handa.odp/"  # eg. daattali
   github: handa-odpo    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
