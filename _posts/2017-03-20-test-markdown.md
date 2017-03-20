@@ -136,32 +136,28 @@ tags: [メモ]
 
 ![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
+# 脚注
+
+```
+こんな感じで脚注をつける[^1]
+
+[^1]: 脚注です
+```
+
+こんな感じで脚注をつける[^1]
+
+[^1]: 脚注です
+
+
+
 # コード埋め込み
 
-~~~
 ```javascript
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
 ```
-~~~
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-~~~
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-~~~
 
 {% highlight javascript linenos %}
 var foo = function(x) {
