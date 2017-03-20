@@ -124,39 +124,12 @@ tags: [メモ]
 
 # コード埋め込み
 
-```
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-```
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-```
 ```javascript
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
 ```
-```
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
 
 {% highlight javascript linenos %}
 var foo = function(x) {
