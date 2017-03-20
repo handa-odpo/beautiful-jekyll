@@ -18,6 +18,7 @@ Fecebook上での公開グループになります。どなたでも自由に参
 
 # 半田市のLinkDataアカウント
 [半田市のLinkDataアカウント](http://user.linkdata.org/user/kouhou_handacity/work)
+
 半田市の公開するオープンデータへのリンク
 
 # 半田市の公開するオープンデータ
