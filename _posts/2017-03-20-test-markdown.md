@@ -76,21 +76,41 @@ tags: [メモ]
 - リスト2
 - リスト3
 
+```
+1. リスト1
+1. リスト2
+1. リスト3
+```
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+1. リスト1
+1. リスト2
+1. リスト3
 
-**Here is some bold text**
+# リンク
+
+```
+[はんだオープンデータ活用推進研究会](https://handa-odpo.github.io)
+```
+
+[はんだオープンデータ活用推進研究会](https://handa-odpo.github.io)
 
 # 表
-Here's a useless table:
- 
+``` 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
 | Five | Six | Four |
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
 | Two | Three | One |
- 
+```
+
+
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
 
 How about a yummy crepe?
 
