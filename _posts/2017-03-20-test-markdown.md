@@ -1,10 +1,31 @@
 ---
 layout: post
-title: マークダウン記法の確認
-subtitle: 記法の確認
+title: 記事投稿の確認
+subtitle: jekyllとマークダウンの記法のメモ
 bigimg: /img/path.jpg
 image: /img/hello_world.jpeg
 ---
+
+# 投稿の種類
+
+投稿できる記事の種類は4種類
+
+* 投稿
+* ページ
+* 最低限の情報
+* HTML
+
+# 見出しの種類
+
+```
+# 見出し1
+## 見出し2
+### 見出し3
+```
+
+# 見出し1
+## 見出し2
+### 見出し3
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
