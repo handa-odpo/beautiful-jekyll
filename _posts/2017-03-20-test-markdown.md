@@ -4,7 +4,7 @@ title: 記事投稿の確認
 subtitle: jekyllとマークダウンの記法のメモ
 bigimg: /img/path.jpg
 image: /img/hello_world.jpeg
-tags: []
+tags: [メモ]
 ---
 
 # 投稿の種類
