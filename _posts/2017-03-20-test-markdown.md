@@ -4,6 +4,7 @@ title: 記事投稿の確認
 subtitle: jekyllとマークダウンの記法のメモ
 bigimg: /img/path.jpg
 image: /img/hello_world.jpeg
+tags: []
 ---
 
 # 投稿の種類
@@ -21,11 +22,32 @@ image: /img/hello_world.jpeg
 # 見出し1
 ## 見出し2
 ### 見出し3
+#### 見出し4
+##### 見出し5
+###### 見出し6
 ~~~
 
 # 見出し1
 ## 見出し2
 ### 見出し3
+#### 見出し4
+##### 見出し5
+###### 見出し6
+
+# 文字の装飾
+
+~~~
+*はんだオープンデータ活用推進研究会*
+**はんだオープンデータ活用推進研究会**
+~~はんだオープンデータ活用推進研究会~~
+__はんだオープンデータ活用推進研究会__
+~~~
+
+*はんだオープンデータ活用推進研究会*
+**はんだオープンデータ活用推進研究会**
+~~はんだオープンデータ活用推進研究会~~
+__はんだオープンデータ活用推進研究会__
+
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
