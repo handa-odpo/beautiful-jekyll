@@ -67,16 +67,6 @@ tags: [メモ]
 * リスト3
 
 ```
-- リスト1
-- リスト2
-- リスト3
-```
-
-- リスト1
-- リスト2
-- リスト3
-
-```
 1. リスト1
 1. リスト2
 1. リスト3
@@ -89,8 +79,8 @@ tags: [メモ]
 # チェックボックス
 
 ```
-- [ ] チェックボックス1
-- [x] チェックボックス2
+* [ ] チェックボックス1
+* [x] チェックボックス2
 ```
 
 * [ ] チェックボックス1
@@ -122,9 +112,15 @@ tags: [メモ]
 | Seven | Eight | Six |
 | Two | Three | One |
 
-How about a yummy crepe?
 
+# 画像
+
+```
 ![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+```
+
+[Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Here's a code chunk:
 
