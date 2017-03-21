@@ -13,8 +13,8 @@ subtitle: 関連するページへのリンク
 * [LinkData](http://ja.linkdata.org/)
 
 # 半田市
-* [半田市のLinkDataアカウント](http://user.linkdata.org/user/kouhou_handacity/work)
-* [半田市の公開するオープンデータ](http://www.city.handa.lg.jp/kikaku/shise/johoseisaku/opendata/data.html)
+* [LinkData](http://user.linkdata.org/user/kouhou_handacity/work)
+* [半田市の公式webページ](http://www.city.handa.lg.jp/kikaku/shise/johoseisaku/opendata/data.html)
 
 # その他
 * [社会と情報技術の呼吸](http://respire.hatenablog.com/)  
