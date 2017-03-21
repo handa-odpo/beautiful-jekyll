@@ -35,6 +35,7 @@ image: /img/iodd-logo.png
 
 # 活動報告
 より詳細な活動報告はLinkDataのKnowledge Connectorをご参照ください
+
 [インターナショナル・オープンデータ・デイ2017in半田](http://idea.linkdata.org/idea/idea1s2254i)
 
 # 当日利用したスライド
