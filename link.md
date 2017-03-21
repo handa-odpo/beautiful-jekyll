@@ -7,6 +7,7 @@ subtitle: 関連するページへのリンク
 # はんだオープンデータ活用推進研究会
 * [Facebookグループ](https://www.facebook.com/groups/handa.odp/)
 * [GitHub](https://github.com/handa-odpo)
+* [LinkData](http://user.linkdata.org/user/handa_odpo/idea)
 
 # オープンデータに関連するページ
 * [LinkData](http://ja.linkdata.org/)
