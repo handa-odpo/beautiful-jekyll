@@ -17,5 +17,5 @@ subtitle: 関連するページへのリンク
 * [半田市の公式webページ](http://www.city.handa.lg.jp/kikaku/shise/johoseisaku/opendata/data.html)
 
 # その他
-* [社会と情報技術の呼吸](http://respire.hatenablog.com/)  
+* [深呼吸](http://respire.hatenablog.com/)  
 中の人の個人的なブログです
